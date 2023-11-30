@@ -1,0 +1,6 @@
+Analysoitiin tiedosto 'nimet15.txt'.
+Tiedostossa on yhteensä 15 eri nimeä.
+Yleisin nimi on 'Virtanen', joka on 21144 ihmisellä.
+Lyhyin nimi 'Aalto' on 5 merkkiä pitkä.
+Pisin nimi 'Koskela-Koivisto' on 16 merkkiä pitkä.
+Keskimääräinen nimen pituus on 8.9 merkkiä.

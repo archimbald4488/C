@@ -1,0 +1,6 @@
+Analysoitiin tiedosto 'miehet.txt'.
+Tiedostossa on yhteensä 10155 eri nimeä.
+Yleisin nimi on 'Juhani', joka on 280282 ihmisellä.
+Lyhyin nimi 'Y' on 1 merkkiä pitkä.
+Pisin nimi 'Väinö-Valtteri' on 16 merkkiä pitkä.
+Keskimääräinen nimen pituus on 6.5 merkkiä.

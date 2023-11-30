@@ -1,0 +1,6 @@
+Analysoitiin tiedosto 'sukunimet.txt'.
+Tiedostossa on yhteensä 23293 eri nimeä.
+Yleisin nimi on 'Korhonen', joka on 21882 ihmisellä.
+Lyhyin nimi 'Ek' on 2 merkkiä pitkä.
+Pisin nimi 'Standertskjöld-Nordenstam' on 26 merkkiä pitkä.
+Keskimääräinen nimen pituus on 7.9 merkkiä.

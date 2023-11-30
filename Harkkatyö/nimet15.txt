@@ -1,0 +1,17 @@
+Sukunimi;Lkm 2023;Lkm 2021;Yleisyysluokka
+Aalto;8453;8515;3
+Aaltojärvi;50;51;1
+Aavamäki;0;20;0
+Aavanen;25;25;1
+Heikkilä;13885;14059;4
+Heikkinen;17021;17218;4
+Koskela-Koivisto;23;24;1
+Koski-Laulaja;31;29;1
+Virtanen;21144;21578;4
+Ärölä;32;33;1
+Öhman;1333;1337;3
+Ölander;101;99;2
+Öling;106;114;2
+Öljymäki;72;73;1
+Överlund;20;0;1
+

@@ -1,0 +1,6 @@
+Analysoitiin tiedosto 'naiset.txt'.
+Tiedostossa on yhteensä 13167 eri nimeä.
+Yleisin nimi on 'Maria', joka on 199303 ihmisellä.
+Lyhyin nimi 'Y' on 1 merkkiä pitkä.
+Pisin nimi 'Johanneksentytär' on 17 merkkiä pitkä.
+Keskimääräinen nimen pituus on 7.1 merkkiä.
